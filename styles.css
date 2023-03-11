@@ -34,11 +34,12 @@ li {
 }
 
 #tribute-info {
+    box-sizing: border-box;
     max-width: 600px;
     width: 100%;
     margin: auto;
-    padding-right: auto;
-    padding-left: auto;
+    padding-right:2%;
+    padding-left:2%;
 }
 
 a {
