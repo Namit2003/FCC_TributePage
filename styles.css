@@ -7,6 +7,7 @@ body {
     background-color: rgba(250, 231, 215, 0.692);
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     text-align: center;
+    width: 100%;
 }
 
 #img-div {
@@ -33,7 +34,8 @@ li {
 }
 
 #tribute-info {
-    width: 600px;
+    max-width: 600px;
+    width: 100%;
     margin: auto;
 }
 
