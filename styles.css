@@ -37,6 +37,8 @@ li {
     max-width: 600px;
     width: 100%;
     margin: auto;
+    padding-right: auto;
+    padding-left: auto;
 }
 
 a {
